@@ -9,5 +9,6 @@ How to use it and how it is built.
 |---|---|
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Architecture — INSTRUMENT.VNA |
 | [SDK.md](SDK.md) | SDK — INSTRUMENT.VNA |
+| [SMOKE.md](SMOKE.md) | Smoke test — INSTRUMENT.VNA |
 | [SDK/](SDK/) | folder |
 <!-- /wiki:index -->
