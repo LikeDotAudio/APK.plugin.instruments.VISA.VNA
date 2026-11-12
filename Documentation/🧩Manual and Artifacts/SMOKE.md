@@ -4,12 +4,12 @@ Is `INSTRUMENT.VNA` deployed? Written by `.apk.scripts/smoke.py` from the module
 
 ← [Wiki home](../README.md)
 
-**❌ FAIL** — 0/1 checks, since 2026-11-04 20:50 EST
+**✅ PASS** — 1/1 checks, since 2026-11-12 00:15 EST
 
 | Check | Target | Result | Detail |
 |---|---|---|---|
-| pushed | origin | ❌ | no upstream branch |
+| pushed | [APK.plugin.instruments.VISA.VNA](https://github.com/LikeDotAudio/APK.plugin.instruments.VISA.VNA.git) | ✅ | HEAD is on origin |
 
 Re-run: `python3 .apk.scripts/smoke.py PODS/POD.THICK/INSTRUMENTS/INSTRUMENT.VNA`
 
-<!-- smoke:sig 572ff359c924 since 2026-11-04 20:50 EST -->
+<!-- smoke:sig 1f02ec66f2d9 since 2026-11-12 00:15 EST -->
